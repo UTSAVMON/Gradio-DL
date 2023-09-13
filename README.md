@@ -1,2 +1,2 @@
-# Gradio-DL
-Image Classification Project
+# Gradio-DL Project
+Coffee Bean Image Classification Project
